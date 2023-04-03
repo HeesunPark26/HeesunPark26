@@ -5,6 +5,8 @@ Now I'm working as a data scientist at Wellysis.
 
 - 👀 I'm interested in applying statistics and machine learning to healthcare services.
 
+- I usually use Python, R, and SQL for data extraction, preprocessing, manipulation, analysis, and visualization.
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/heesunpark/)
 
 - Are you interested in my repos?
